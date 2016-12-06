@@ -1,0 +1,5 @@
+mysql-ctl start
+mysql -u elenaiaru
+use restaurant
+select * from PRODUSE;
+SHOW COLUMNS FROM PRODUSE;
